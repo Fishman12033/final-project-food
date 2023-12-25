@@ -1,0 +1,4 @@
+API с рецептами - https://spoonacular.com/food-api
+
+Т.к. в API стоит ограничения на 150 запросов, нужно будет менять API key в файле env.development.local
+
